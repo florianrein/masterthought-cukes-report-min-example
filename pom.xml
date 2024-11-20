@@ -59,7 +59,7 @@
         <dependency>
             <groupId>net.masterthought</groupId>
             <artifactId>cucumber-reporting</artifactId>
-            <version>5.8.2</version>
+            <version>5.8.4</version> <!-- most recent: 5.8.4, used: 5.8.2 -->
         </dependency>
         <dependency>
             <groupId>commons-beanutils</groupId>
