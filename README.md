@@ -1,4 +1,4 @@
-### Execute with:
+# Execute with:
 
 mvn test
 
